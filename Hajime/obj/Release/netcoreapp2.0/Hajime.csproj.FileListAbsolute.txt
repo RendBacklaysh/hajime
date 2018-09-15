@@ -1,0 +1,11 @@
+c:\users\nn\source\repos\Hajime\Hajime\bin\Release\netcoreapp2.0\Hajime.deps.json
+c:\users\nn\source\repos\Hajime\Hajime\bin\Release\netcoreapp2.0\Hajime.runtimeconfig.json
+c:\users\nn\source\repos\Hajime\Hajime\bin\Release\netcoreapp2.0\Hajime.runtimeconfig.dev.json
+c:\users\nn\source\repos\Hajime\Hajime\bin\Release\netcoreapp2.0\Hajime.dll
+c:\users\nn\source\repos\Hajime\Hajime\bin\Release\netcoreapp2.0\Hajime.pdb
+c:\users\nn\source\repos\Hajime\Hajime\obj\Release\netcoreapp2.0\Hajime.csprojAssemblyReference.cache
+c:\users\nn\source\repos\Hajime\Hajime\obj\Release\netcoreapp2.0\Hajime.csproj.CoreCompileInputs.cache
+c:\users\nn\source\repos\Hajime\Hajime\obj\Release\netcoreapp2.0\Hajime.AssemblyInfoInputs.cache
+c:\users\nn\source\repos\Hajime\Hajime\obj\Release\netcoreapp2.0\Hajime.AssemblyInfo.cs
+c:\users\nn\source\repos\Hajime\Hajime\obj\Release\netcoreapp2.0\Hajime.dll
+c:\users\nn\source\repos\Hajime\Hajime\obj\Release\netcoreapp2.0\Hajime.pdb

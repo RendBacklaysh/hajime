@@ -1,0 +1,14 @@
+c:\users\nn\source\repos\Hajime\Hajime
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Hajime
+--content-root=c:\users\nn\source\repos\Hajime\Hajime
+--file=c:\users\nn\source\repos\Hajime\Hajime\Views\Home\About.cshtml
+--file=c:\users\nn\source\repos\Hajime\Hajime\Views\Home\Contact.cshtml
+--file=c:\users\nn\source\repos\Hajime\Hajime\Views\Home\Index.cshtml
+--file=c:\users\nn\source\repos\Hajime\Hajime\Views\Shared\Error.cshtml
+--file=c:\users\nn\source\repos\Hajime\Hajime\Views\Shared\_Layout.cshtml
+--file=c:\users\nn\source\repos\Hajime\Hajime\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=c:\users\nn\source\repos\Hajime\Hajime\Views\TEST\index.cshtml
+--file=c:\users\nn\source\repos\Hajime\Hajime\Views\TEST\TEST.cshtml
+--file=c:\users\nn\source\repos\Hajime\Hajime\Views\_ViewImports.cshtml
+--file=c:\users\nn\source\repos\Hajime\Hajime\Views\_ViewStart.cshtml
